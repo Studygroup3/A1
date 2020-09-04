@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1 - Data Cleaning - Instructions"
-author: "[FILL IN YOUR NAME]"
-date: "[FILL IN THE DATE]"
+author: "Andreas Jeppesen, Sophie Korch, Thea Pedersen og Lina Elkjær"
+date: "03/09-2020"
 output: html_document
 ---
 
@@ -19,7 +19,7 @@ In this warm-up assignment you will:
 
 - Become comfortable with tidyverse (and R in general)
 - Test out the git integration with RStudio
-- Build expertise in data wrangling (which will be used in future assignments)
+- Build expertise in data wrangling (which will be used in future assignments).
 
 
 ## 0. First an introduction on the data
